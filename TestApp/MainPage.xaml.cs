@@ -32,7 +32,6 @@ namespace TestApp
             else //if (category == "Distance")
             {
                 return convertToDistance(inp, sFrom, sTo);
-				Console.WriteLine("There is no console");
             }
             //return -1;
         }
