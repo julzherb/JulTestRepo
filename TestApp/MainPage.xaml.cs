@@ -32,6 +32,7 @@ namespace TestApp
             else //if (category == "Distance")
             {
                 return convertToDistance(inp, sFrom, sTo);
+				Console.Write("This is fake code for testing");
             }
             //return -1;
         }
